@@ -5,7 +5,7 @@ export class Player {
   
   }
   info() {
-    console.log(` ${this.name} has reached Level ${this.level}!`);
+    console.log(`${this.name} has reached Level ${this.level}!`);
     
   }
 
